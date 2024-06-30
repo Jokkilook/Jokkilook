@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFCC16,100:A81588&height=300&section=header&text=&fontAlign=20&fontAlignY=40&fontSize=60&fontColor=ffffff)
-
 <!---
 Jokkilook/Jokkilook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
