@@ -2,8 +2,6 @@
 Jokkilook/Jokkilook is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1> Hi I'm Joe. </h1>
-
 <h3>Used as main</h3>(for now)
 
 ![](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
